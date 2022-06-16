@@ -11,11 +11,14 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 
 # In progress
 
-- [**Switcher API - Payload Support**](https://github.com/orgs/switcherapi/projects/4)
+> **Switcher API - Payload Support - [**Project link**](https://github.com/orgs/switcherapi/projects/4)**
+
+Include payload validation support to the API and SDKs.<br>
+Adding more flexibility when delegating Switcher strategies to Relay services.
 
 # On Hold
 
-> **Switcher Client: Python SDK**
+> **Switcher Client: Python SDK - [**Project link**](https://github.com/orgs/switcherapi/projects/2)**
 
-A Python library is the next SDK to be developed for fast and secure communication with Switcher API.
+A Python library is the next SDK to be developed for fast and secure communication with Switcher API.<br>
 This library should include all features present on the Java and JS SDKs.
