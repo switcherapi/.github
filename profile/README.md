@@ -22,3 +22,14 @@ Adding more flexibility when delegating Switcher strategies to Relay services.
 
 A Python library is the next SDK to be developed for fast and secure communication with Switcher API.<br>
 This library should include all features present on the Java and JS SDKs.
+
+# Discussion Areas
+
+Let's talk and share thoughts.
+
+- [**SwitcherAPI General**](https://github.com/orgs/switcherapi/discussions)
+- [**The API**](https://github.com/switcherapi/switcher-api/discussions)
+- [**The Management UI**](https://github.com/switcherapi/switcher-management/discussions)
+- [**The JS SDK**](https://github.com/switcherapi/switcher-client-master/discussions)
+- [**The Java SDK**](https://github.com/switcherapi/switcher-client/discussions)
+- [**The Slack App**](https://github.com/switcherapi/switcher-slack-app/discussions)
