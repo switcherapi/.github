@@ -6,17 +6,17 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Client - JavaScript SDK**](https://github.com/switcherapi/switcher-client-master)
 - [**Switcher Client - Java SDK**](https://github.com/switcherapi/switcher-client)
 - [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app)
+- [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac)
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
-# In progress
+# Third Party Projects
+Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
 
-> **Switcher API - Payload Support - [**Project link**](https://github.com/orgs/switcherapi/projects/4)**
+# Initiatives
+Checkout all official open/closed [Switcher Projects](https://github.com/orgs/switcherapi/projects?type=beta)
 
-Include payload validation support to the API and SDKs.<br>
-Adding more flexibility when delegating Switcher strategies to Relay services.
-
-# On Hold
+## On Hold
 
 > **Switcher Client: Python SDK - [**Project link**](https://github.com/orgs/switcherapi/projects/2)**
 
