@@ -5,7 +5,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Management**](https://github.com/switcherapi/switcher-management)
 - [**Switcher Client - JavaScript SDK**](https://github.com/switcherapi/switcher-client-master)
 - [**Switcher Client - Java SDK**](https://github.com/switcherapi/switcher-client)
-- [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno) *(in-progress)*
+- [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno) *(new)*
 - [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app)
 - [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac)
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
@@ -16,13 +16,6 @@ Contribute with Switcher API eco-system - [Open PR](https://github.com/switchera
 
 # Initiatives
 Checkout all official open/closed [Switcher Projects](https://github.com/orgs/switcherapi/projects?type=beta)
-
-## In Progress
-
-> **Switcher Client: Deno SDK - [**Project link**](https://github.com/orgs/switcherapi/projects/6)**
-
-A Deno module is currently being developed as a native port from our JavaScript source.<br>
-The SDK will include all available features from JS SDK and optimizations for Deno runtime.
 
 ## On Hold
 
