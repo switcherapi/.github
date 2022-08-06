@@ -11,6 +11,12 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
+## Upcoming updates
+- Java Client SDK (v1.2.6) - Concurrency fixes and performance improvement -> [link](https://github.com/switcherapi/switcher-client/milestone/6)
+- JS Client SDK (v3.1.2) - It's lighter than ever! -> [link](https://github.com/switcherapi/switcher-client-master/milestone/5)
+- Switcher API (v1.2.6) - Patched vulnerabilities -> [link](https://github.com/switcherapi/switcher-api/milestone/5)
+- Switcher Management (v1.2.4) - Improved navigation reducing browser resource usage -> [link](https://github.com/switcherapi/switcher-api/milestone/5)
+
 # Third Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
 
