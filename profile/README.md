@@ -12,7 +12,6 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
 ## Upcoming updates
-- Switcher API Environment - Migrating environments from Heroku to Oracle Cloud
 - Switcher Management (v1.2.5) - Major improvements on Dark theme visuals -> [link](https://github.com/switcherapi/switcher-management/milestone/2)
 - Switcher API (v1.2.6) - Patched vulnerabilities -> [link](https://github.com/switcherapi/switcher-api/milestone/5)
 - Switcher Account Control (v1.0.6) - It now support generic feature validators -> [link](https://github.com/switcherapi/switcher-ac/milestone/1)
