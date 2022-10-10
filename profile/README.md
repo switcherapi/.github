@@ -12,7 +12,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
 ## Upcoming updates
-- Nothing on our radar at this moment.
+- Switcher Java SDK v1.3.8 - Patching Jersey vulnerabilities
 
 # Third Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
