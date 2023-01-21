@@ -16,6 +16,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - Switcher API v1.2.7 - Patched dependencies
 - Switcher Management v1.2.6 - Patched dependencies
 - Switcher Slack App v1.0.3 - Patched low vulnerabilities
+- Switcher JavaScript SDK v3.1.4 - Upgraded dependencies
 
 # Third Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
