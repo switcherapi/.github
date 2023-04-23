@@ -13,7 +13,6 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
 ## Upcoming updates
-- Switcher API v1.2.7 - Patched dependencies
 - Switcher Management v1.2.6 - Patched dependencies
 - Switcher Slack App v1.0.3 - Patched low vulnerabilities
 - Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x
