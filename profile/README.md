@@ -42,3 +42,18 @@ Let's talk and share thoughts.
 - [**The Java SDK**](https://github.com/switcherapi/switcher-client/discussions)
 - [**The Deno SDK**](https://github.com/switcherapi/switcher-client-deno/discussions)
 - [**The Slack App**](https://github.com/switcherapi/switcher-slack-app/discussions)
+
+# Collaborate :rocket:
+
+Want to contribute with Switcher API but are still lost and confused?<br>
+Don't worry! We Switcher Maintainers love to help new devs get started with new development.
+
+Here are the 3 basic steps you can follow:
+1. Communication is essential to run great ideas from ideation to production, so why not start a new Thread in one of our Discussion spaces?
+2. From that discussion you might have an idea and want to share your thoughts, or you've already created something and want to show the value. It's all good! The idea here is to put everyone on the same page and there is no right or wrong.
+3. After going through some details on how you want to deliver your contribution you can count on us to support you.
+
+And here are a few projects that would definitely help a lot in growing the Switcher API ecosystem.
+- SDKs (Python, Go, .Net)
+- Switcher Slack App new features
+- Switcher Management UI/UX improvements
