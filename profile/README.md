@@ -17,6 +17,8 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
 - Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x
 - Switcher API v1.2.8 - Relay security improvements, bug fixes, patched dependencies
+- Switcher JS SDK v3.1.7 - Improved fail response handler & including Snapshot Auto Update
+- Switcher Deno SDK v1.0.3 - Improved fail response handler & including Snapshot Auto Update
 
 # Third Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
