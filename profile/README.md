@@ -6,9 +6,10 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) *(new)*
 - [**Switcher Client - JavaScript SDK**](https://github.com/switcherapi/switcher-client-master)
 - [**Switcher Client - Java SDK**](https://github.com/switcherapi/switcher-client)
-- [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno) *(new)*
+- [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno)
 - [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app)
 - [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac)
+- [**Switcher SearchDocs API**](https://github.com/petruki/skimming-api) *(new - former Skimming API)*
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
@@ -17,6 +18,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
 - Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x
 - Switcher API v1.2.8 - Relay security improvements, bug fixes, patched dependencies
+- Switcher SearchDocs API *(new)* - Migrating application to Switcher API domain
 
 # Third Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
