@@ -58,4 +58,4 @@ Here are the 3 basic steps you can follow:
 And here are a few projects that would definitely help a lot in growing the Switcher API ecosystem.
 - SDKs (Python, Go, .Net)
 - Switcher Slack App new features
-- Switcher Management UI/UX improvements
+- Switcher Management 2 (Migrate to React)
