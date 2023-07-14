@@ -3,6 +3,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 # Projects
 - [**Switcher API**](https://github.com/switcherapi/switcher-api)
 - [**Switcher Management**](https://github.com/switcherapi/switcher-management)
+- [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature)
 - [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) *(new)*
 - [**Switcher Client - JavaScript SDK**](https://github.com/switcherapi/switcher-client-js)
 - [**Switcher Client - Java SDK**](https://github.com/switcherapi/switcher-client-java)
