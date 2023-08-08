@@ -18,6 +18,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved
 - Switcher Client Deno SDK v1.0.5 - Many new updates and improvements
 - Switcher Client JS SDK v3.1.9 - Added custom SSL option, improving snapshot usage
+- Switcher Client Java SDK v2.0.4 & v1.4.3 - Snapshot re-work & in-memory option
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
 - Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
