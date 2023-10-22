@@ -14,7 +14,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
-## Upcoming updates
+## Upcoming changes
 - Switcher Client SDK JS v3.2.0 - Publishing with Provenance Statement to increase supply-chain security
 - Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved & Overall perf improvements
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
