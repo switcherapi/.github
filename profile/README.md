@@ -15,11 +15,11 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
 ## Upcoming updates
-- Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved
+- Switcher Client SDK JS v3.2.0 - Publishing with Provenance Statement to increase supply-chain security
+- Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved & Overall perf improvements
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
-- Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x
+- Switcher Account Control v1.0.8 - Upgrading to Spring Boot 3.x & Other security patches
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
-- Switcher SearchDocs API *(new)* - Migrating application to Switcher API domain
 
 # Third-Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
