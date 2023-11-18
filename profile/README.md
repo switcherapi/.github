@@ -2,6 +2,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 
 # Projects
 - [**Switcher API**](https://github.com/switcherapi/switcher-api)
+- [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) *(new)*
 - [**Switcher Management**](https://github.com/switcherapi/switcher-management)
 - [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature)
 - [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts)
