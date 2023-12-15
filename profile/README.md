@@ -11,7 +11,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno)
 - [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app)
 - [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac)
-- [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) *(new - former Skimming API)*
+- [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs)
 - [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) *(discontinued)*
 - [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) *(discontinued)*
 
@@ -20,7 +20,8 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 - Switcher Slack App v1.1.0 - Create Switchers from the App :rocket:
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
 - Switcher Java SDK v2.0.6 & v1.4.5 - Hybrid feature flags (remote/offline)
-- Switcher GitOps - Manage feature flags with best practices for a true DevOps-driven team. 🚀
+- *(new)* Switcher GitOps - Manage feature flags with best practices for a true DevOps-driven team. 🚀
+- *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 
 # Third-Party Projects
 Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
