@@ -23,6 +23,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 ## Upcoming changes
 - Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved & Overall perf improvements
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
+- Switcher Slack App v2.0.0 - Improved UI and support to multiple Domains for a single installation 🚀
 - *(new)* Switcher GitOps - Manage feature flags with best practices for a true DevOps-driven team. 🚀
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 
