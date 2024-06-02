@@ -14,7 +14,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 | [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno) | Switcher Client - Deno Native SDK | 2.0.1 |
 | [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
 | [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
-| [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 1.0.6 |
+| [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.0.0 |
 | [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 1.0.8 |
 | [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) | API docs search engine for Switcher API documentation | 1.0.1 |
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
@@ -23,7 +23,6 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 ## Upcoming changes
 - Switcher Management v1.2.6 - Patched dependencies & Dark Theme perf improved & Overall perf improvements
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
-- Switcher Slack App v2.0.0 - Improved UI and support to multiple Domains for a single installation 🚀
 - *(new)* Switcher GitOps - Manage feature flags with best practices for a true DevOps-driven team. 🚀
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 
