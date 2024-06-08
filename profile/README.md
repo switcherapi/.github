@@ -22,6 +22,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 
 ## Upcoming changes
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
+- Switcher Management v2.0.0 - Powered by Angular 18, this new release introduced many UI improvements
 - *(new)* Switcher GitOps - Manage feature flags with best practices for a true DevOps-driven team. 🚀
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 
@@ -60,7 +61,7 @@ Here are the 3 basic steps you can follow:
 2. From that discussion you might have an idea and want to share your thoughts, or you've already created something and want to show the value. It's all good! The idea here is to put everyone on the same page and there is no right or wrong.
 3. After going through some details on how you want to deliver your contribution you can count on us to support you.
 
-And here are a few projects that would definitely help a lot in growing the Switcher API ecosystem.
+And here are a few projects that would help a lot in growing the Switcher API ecosystem.
 - SDKs (Rust, Python, Go, .Net)
 - Switcher Slack App new features
 - Switcher Management 2 (Migrate to React)
