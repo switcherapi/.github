@@ -18,7 +18,6 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 | [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 1.0.8 |
 | [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) | API docs search engine for Switcher API documentation | 1.0.1 |
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
-| [**Switcher Load Balance**](https://github.com/switcherapi/switcher-load-balance) | Load balancer for Switcher Resolvers - replaced by managed K8s cluster | discontinued |
 
 ## Upcoming changes
 - Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
