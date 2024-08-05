@@ -5,7 +5,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 | -------------------------- | ---------------------------------------------- | ---------------------- |
 | [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.2.7 |
 | [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) | Resolver Node API for Component Switchers | 1.0.0 | 
-| [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 1.2.6 |
+| [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.0 |
 | [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.0.1 |
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | development |
