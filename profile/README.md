@@ -3,9 +3,9 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 # Projects
 | Name                       | Description                                    | Release                |
 | -------------------------- | ---------------------------------------------- | ---------------------- |
-| [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.2.7 |
+| [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.3.0 |
 | [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) | Resolver Node API for Component Switchers | 1.0.0 | 
-| [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.0 |
+| [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.1 |
 | [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.0.1 |
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | 1.0.0 |
@@ -20,7 +20,7 @@ Switcher API is a Feature Flag API with the main focus on decreasing the frictio
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
 
 ## Upcoming changes
-- Switcher API v1.2.8 - Relay security improvements, improved Team/Permission evaluation, bug fixes, patched dependencies
+- *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 
 # Third-Party Projects
@@ -28,13 +28,6 @@ Contribute with Switcher API eco-system - [Open PR](https://github.com/switchera
 
 # Initiatives
 Check out all official open/closed [Switcher Projects](https://github.com/orgs/switcherapi/projects?type=beta)
-
-## On Hold
-
-> **Switcher Client: Python SDK - [**Project link**](https://github.com/orgs/switcherapi/projects/2)**
-
-A Python library is the next SDK to be developed for fast and secure communication with Switcher API.<br>
-This library should include all features present on the Java and JS SDKs.
 
 # Discussion Areas
 
@@ -47,11 +40,12 @@ Let's talk and share thoughts.
 - [**The Java SDK**](https://github.com/switcherapi/switcher-client/discussions)
 - [**The Deno SDK**](https://github.com/switcherapi/switcher-client-deno/discussions)
 - [**The Slack App**](https://github.com/switcherapi/switcher-slack-app/discussions)
+- [**The GitOps**](https://github.com/switcherapi/switcher-gitops/discussions)
 
 # Collaborate :rocket:
 
 Want to contribute with Switcher API but are still lost and confused?<br>
-Don't worry! We Switcher Maintainers love to help new devs get started with new development.
+Don't worry! We love to help new devs to get started with new development.
 
 Here are the 3 basic steps you can follow:
 1. Communication is essential to run great ideas from ideation to production, so why not start a new Thread in one of our Discussion spaces?
@@ -61,4 +55,3 @@ Here are the 3 basic steps you can follow:
 And here are a few projects that would help a lot in growing the Switcher API ecosystem.
 - SDKs (Rust, Python, Go, .Net)
 - Switcher Slack App new features
-- Switcher Management 2 (Migrate to React)
