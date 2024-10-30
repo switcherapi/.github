@@ -1,37 +1,42 @@
-Switcher API is a Feature Flag API with the main focus on decreasing the friction caused by changes while keeping control of what really matters.
+Switcher API is a Feature Manager focused on helping teams effortlessly manage features at scale without compromising performance and code maintainability.
 
 # Projects
-| Name                       | Description                                    | Release                |
-| -------------------------- | ---------------------------------------------- | ---------------------- |
+| Name  | Description   | Release   |
+| ----- | ------------- | --------- |
 | [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.3.0 |
 | [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) | Resolver Node API for Component Switchers | 1.0.0 | 
 | [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.1 |
 | [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.0.1 |
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | 1.0.0 |
-| [**Switcher Client - JavaScript SDK**](https://github.com/switcherapi/switcher-client-js) | Switcher Client - JavaScript SDK | 4.1.1 |
-| [**Switcher Client - Java SDK**](https://github.com/switcherapi/switcher-client-java) | Switcher Client - Java SDK | 1.5.0 - 2.1.0 |
-| [**Switcher Client - Deno SDK**](https://github.com/switcherapi/switcher-client-deno) | Switcher Client - Deno Native SDK | 2.0.2 |
-| [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
-| [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
 | [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.0.0 |
 | [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 1.0.8 |
 | [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) | API docs search engine for Switcher API documentation | 1.0.1 |
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
 
-## Upcoming changes
+# Client SDKs
+| Language/Runtime  | Description/Compatibility  | Release  |
+| ----------------- | ---------------------------| -------- |
+| [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js - 16.x, 17.x, 18.x, 20.x | 4.1.1 |
+| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - 8, 11, 17, 18, 21 | 1.5.0 - 2.1.0 |
+| [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.0.2 |
+| [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
+| [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
+
+## What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
+- Switcher Resolver Node v1.1.0 - Performance optimizations
 
 # Third-Party Projects
-Contribute with Switcher API eco-system - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
+Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
 
 # Initiatives
 Check out all official open/closed [Switcher Projects](https://github.com/orgs/switcherapi/projects?type=beta)
 
 # Discussion Areas
 
-Let's talk and share thoughts.
+Let's talk and share ideas.
 
 - [**SwitcherAPI General**](https://github.com/orgs/switcherapi/discussions)
 - [**The API**](https://github.com/switcherapi/switcher-api/discussions)
@@ -42,10 +47,10 @@ Let's talk and share thoughts.
 - [**The Slack App**](https://github.com/switcherapi/switcher-slack-app/discussions)
 - [**The GitOps**](https://github.com/switcherapi/switcher-gitops/discussions)
 
-# Collaborate :rocket:
+# Contributing :rocket:
 
 Want to contribute with Switcher API but are still lost and confused?<br>
-Don't worry! We love to help new devs to get started with new development.
+Don't worry! We love to help new maintainers to get started with new development.
 
 Here are the 3 basic steps you can follow:
 1. Communication is essential to run great ideas from ideation to production, so why not start a new Thread in one of our Discussion spaces?
@@ -55,3 +60,4 @@ Here are the 3 basic steps you can follow:
 And here are a few projects that would help a lot in growing the Switcher API ecosystem.
 - SDKs (Rust, Python, Go, .Net)
 - Switcher Slack App new features
+- Integration with other platforms
