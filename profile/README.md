@@ -23,29 +23,21 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
 | [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
 
-## What's new
+# What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
+- Switcher Slack App v2.0.1 - UI/UX improvements (allow checking FF status during selection)
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
 
-# Initiatives
-Check out all official open/closed [Switcher Projects](https://github.com/orgs/switcherapi/projects?type=beta)
+# Community Servers
+Let's talk and share ideas.<br>
+Do you have ideas, or have questions about using/installing any of the Switcher API projects. Try one of these:
 
-# Discussion Areas
-
-Let's talk and share ideas.
-
-- [**SwitcherAPI General**](https://github.com/orgs/switcherapi/discussions)
-- [**The API**](https://github.com/switcherapi/switcher-api/discussions)
-- [**The Management UI**](https://github.com/switcherapi/switcher-management/discussions)
-- [**The JS SDK**](https://github.com/switcherapi/switcher-client-master/discussions)
-- [**The Java SDK**](https://github.com/switcherapi/switcher-client/discussions)
-- [**The Deno SDK**](https://github.com/switcherapi/switcher-client-deno/discussions)
-- [**The Slack App**](https://github.com/switcherapi/switcher-slack-app/discussions)
-- [**The GitOps**](https://github.com/switcherapi/switcher-gitops/discussions)
+- [**Switcher Slack HQ**](https://switcher-hq.slack.com/)
+- [**Switcher API Discord Server**](https://discord.gg/cqgdb9Ef)
 
 # Contributing :rocket:
 
