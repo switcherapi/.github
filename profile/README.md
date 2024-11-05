@@ -29,6 +29,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
 - Switcher Slack App v2.0.1 - UI/UX improvements (allow checking FF status during selection)
+- Switcher Client SDKs - All SDKs will include Test Criteria evaluation in the next release
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
