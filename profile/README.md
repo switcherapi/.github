@@ -9,7 +9,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.0.1 |
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | 1.0.0 |
-| [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.0.0 |
+| [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.1.0 |
 | [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 1.0.8 |
 | [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) | API docs search engine for Switcher API documentation | 1.0.1 |
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
@@ -28,7 +28,6 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
-- Switcher Slack App v2.0.1 - UI/UX improvements (allow checking FF status during selection)
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
