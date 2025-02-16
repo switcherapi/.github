@@ -28,6 +28,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs
 - *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
+- Switcher Management Feature Service v1.1.0 - New API for aggregated criteria evaluation
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
