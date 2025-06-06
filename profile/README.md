@@ -10,7 +10,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | 1.0.0 |
 | [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.1.0 |
-| [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 1.0.9 |
+| [**Switcher Account Control**](https://github.com/switcherapi/switcher-ac) | Relay service to manage accounts in Switcher API | 2.0.0 - 1.1.0 |
 | [**Switcher SearchDocs API**](https://github.com/switcherapi/switcher-searchdocs) | API docs search engine for Switcher API documentation | 1.0.1 |
 | [**Switcher Slash Command**](https://github.com/switcherapi/switcher-slash-webhook) | Slash command for Slack - replaced by Switcher Slack App | discontinued |
 
