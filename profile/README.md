@@ -6,7 +6,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.3.0 |
 | [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) | Resolver Node API for Component Switchers | 1.0.0 | 
 | [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.2 |
-| [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.0.1 |
+| [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.1.0 |
 | [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts) | Switcher API Helm Charts | latest |
 | [**Switcher GitOps**](https://github.com/switcherapi/switcher-gitops) | GitOps Domain Snapshot Orchestrator for Switcher API | 1.0.0 |
 | [**Switcher Slack App**](https://github.com/switcherapi/switcher-slack-app) | Switcher API App for Slack | 2.1.0 |
@@ -26,9 +26,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 
 # What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
-- *(new)* Switcher CLI - Enabling developers to manage switchers from the workspace 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
-- Switcher Management Feature Service v1.1.0 - New API for aggregated criteria evaluation
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
