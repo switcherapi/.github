@@ -33,7 +33,7 @@ Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/
 
 # Community Servers
 Let's talk and share ideas.<br>
-Do you have ideas, or have questions about using/installing any of the Switcher API projects. Try one of these:
+Do you have ideas, or have questions about using/installing any of the Switcher API projects? Try one of these:
 
 - [**Switcher Slack HQ**](https://switcher-hq.slack.com/)
 - [**Switcher API Discord Server**](https://discord.gg/cqgdb9Ef)
@@ -43,12 +43,16 @@ Do you have ideas, or have questions about using/installing any of the Switcher 
 Want to contribute with Switcher API but are still lost and confused?<br>
 Don't worry! We love to help new maintainers to get started with new development.
 
-Here are the 3 basic steps you can follow:
-1. Communication is essential to run great ideas from ideation to production, so why not start a new Thread in one of our Discussion spaces?
-2. From that discussion you might have an idea and want to share your thoughts, or you've already created something and want to show the value. It's all good! The idea here is to put everyone on the same page and there is no right or wrong.
-3. After going through some details on how you want to deliver your contribution you can count on us to support you.
+Here are a few ways you can contribute:
+- **Bug Fixes**: Find a bug? Open an issue or submit a pull request with a fix.
+- **Feature Requests**: Have an idea for a new feature? Open an issue to discuss it.
+- **Documentation**: Help us improve the documentation of our projects.
+- **New Project**: If you have an idea for a new project that could benefit the Switcher API ecosystem, we would love to hear about it and eventuallu advertise it here for visibility and credit.
+
+If you are still unsure where to begin contributing to Switcher API, you can start by dropping a message in our community servers (Slack or Discord) or using GitHub Discussions.
 
 And here are a few projects that would help a lot in growing the Switcher API ecosystem.
-- SDKs (Rust, Python, Go, .Net)
+- SDKs (Rust, Scala, .Net)
+- Developer tools (CLIs, Web UI)
 - Switcher Slack App new features
 - Integration with other platforms
