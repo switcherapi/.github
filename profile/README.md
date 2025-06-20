@@ -25,6 +25,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
 
 # What's new
+- Switcher Client Java v1 & v2 - Fix checkSwitchers for remote mode, added new configurations
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
 
