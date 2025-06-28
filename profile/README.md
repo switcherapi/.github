@@ -18,14 +18,13 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | Language/Runtime  | Description/Compatibility  | Release  |
 | ----------------- | ---------------------------| -------- |
 | [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js - 16.x, 17.x, 18.x, 20.x, 22.x | 4.2.0 |
-| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (11+ uses Native) | 1.6.3 - 2.2.3 |
+| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (11+ uses Native) | 1.7.1 - 2.3.1 |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.1.0 |
 | [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python > 3.6 | development |
 | [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
 | [**Switcher Client - Benchmark**](https://github.com/switcherapi/feature-flag-benchmark) | Benchmark evaluating Switcher SDKs against 5 different Feature Flag main vendors | latest |
 
 # What's new
-- Switcher Client Java v1 & v2 - Fix checkSwitchers for remote mode, added new configurations
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
 
