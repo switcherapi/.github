@@ -19,7 +19,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | ----------------- | ---------------------------| -------- |
 | [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js - 16.x, 17.x, 18.x, 20.x, 22.x | 4.3.0 |
 | [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (11+ uses Native) | 1.7.1 - 2.3.1 |
-| [**Java: switcher-client (benchmark)**](https://github.com/switcherapi/feature-flag-benchmark) | Java Client SDK compared to 5 different Feature Flag vendors | latest |
+| [**Java: switcher-client (benchmark)**](https://github.com/switcherapi/client-java-benchmark) | Java Client SDK compared to 5 different Feature Flag vendors | latest |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.2.0 |
 | [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python > 3.6 | development |
 | [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
