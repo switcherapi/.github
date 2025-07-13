@@ -3,7 +3,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 # Projects
 | Name  | Description   | Release   |
 | ----- | ------------- | --------- |
-| [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.3.0 |
+| [**Switcher API**](https://github.com/switcherapi/switcher-api) | Core API that manages all Switcher API configurations | 1.4.0 |
 | [**Switcher Resolver Node**](https://github.com/switcherapi/switcher-resolver-node) | Resolver Node API for Component Switchers | 1.0.0 | 
 | [**Switcher Management**](https://github.com/switcherapi/switcher-management) | Portal for managing Switcher API | 2.0.3 |
 | [**Switcher Management Feature Service**](https://github.com/switcherapi/switcher-management-feature) | Feature service for the Switcher Management | 1.1.0 |
