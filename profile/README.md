@@ -17,13 +17,17 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 # Client SDKs
 | Language/Runtime  | Description/Compatibility  | Release  |
 | ----------------- | ---------------------------| -------- |
-| [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js - 16.x, 17.x, 18.x, 20.x, 22.x | 4.4.1 |
-| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (11+ uses Native) | 1.8.1 - 2.4.1 |
+| [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.4.1 |
+| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (11+ uses built-in HttpClient) | 1.8.1 - 2.4.1 |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.3.1 |
-| [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python > 3.9 | development |
-| [**JS/Deno Client SDK: benchmark**](https://github.com/switcherapi/client-js-benchmark) | SDKs compared to 4 differente Feature Flag vendors | latest |
-| [**Java Client SDK: benchmark**](https://github.com/switcherapi/client-java-benchmark) | SDK compared to 5 different Feature Flag vendors | latest |
-| [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets | latest |
+| [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.9+ | development |
+
+# Miscellaneous
+| Repository  | Description   |
+| ----- | ------------- |
+| [**JS/Deno Client SDK: benchmark**](https://github.com/switcherapi/client-js-benchmark) | JavaScript/Deno Client SDKs benchmark |
+| [**Java Client SDK: benchmark**](https://github.com/switcherapi/client-java-benchmark) | Java Client SDKs benchmark |
+| [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets |
 
 # What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
