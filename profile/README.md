@@ -18,7 +18,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | Language/Runtime  | Description/Compatibility  | Release  |
 | ----------------- | ---------------------------| -------- |
 | [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.5.0 |
-| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (17+ uses built-in HttpClient) | 1.9.1 - 2.5.1 |
+| [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (17+ uses built-in HttpClient) | 1.9.2 - 2.5.2 |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.4.0 |
 | [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.9+ | development |
 
@@ -32,7 +32,6 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 # What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
-- Switcher Java Client SDK - Major performance improvements coming up v2.5.2 and v1.9.2
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
