@@ -32,6 +32,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 # What's new
 - *(new)* Python SDK - A Switcher Client for Python with all great development features you can find in our SDKs 🚀
 - Switcher Resolver Node v1.1.0 - Performance optimizations
+- Switcher Management v2.2.0 - Major refactor to use Zoneless for Angular 21 prep and performance improvement
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
