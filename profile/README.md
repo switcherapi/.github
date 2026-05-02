@@ -27,6 +27,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | ----- | ------------- |
 | [**JS/Deno Client SDK: benchmark**](https://github.com/switcherapi/client-js-benchmark) | JavaScript/Deno Client SDKs benchmark |
 | [**Java Client SDK: benchmark**](https://github.com/switcherapi/client-java-benchmark) | Java Client SDKs benchmark |
+| [**Python Client SDK: benchmark**](https://github.com/switcherapi/client-py-benchmark) | Python Client SDKs benchmark |
 | [**Switcher Client - Tutorials**](https://github.com/switcherapi/switcherapi-tutorials) | Switcher Client SDK tutorials and code snippets |
 
 # What's new
