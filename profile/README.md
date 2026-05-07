@@ -33,6 +33,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 # What's new
 - Switcher Resolver Node v1.1.0 - Performance optimizations
 - Switcher Client SDK for JS v4.5.1 and Deno v2.4.1 - Cache and resource allocation improvements
+- Switcher Client SDK for Java v2.5.3/v1.9.3 - ~60% performance increase when using async mode
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
