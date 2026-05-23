@@ -19,7 +19,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 | ----------------- | ---------------------------| -------- |
 | [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.5.0 |
 | [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (17+ uses built-in HttpClient) | 1.9.2 - 2.5.2 |
-| [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.4.0 |
+| [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.5.0 |
 | [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.9+ | 1.0.0 |
 | [**Go: switcher-client-go**](https://github.com/switcherapi/switcher-client-go) | Go 1.25+ | development |
 
@@ -33,7 +33,7 @@ Switcher API is a Feature Manager focused on helping teams effortlessly manage f
 
 # What's new
 - Switcher Resolver Node v1.1.0 - Performance optimizations
-- Switcher Client SDK for JS v4.6.0 and Deno v2.5.0 - Cache and resource allocation improvements
+- Switcher Client SDK for JS v4.6.0 - Cache and resource allocation improvements
 - Switcher Client SDK for Java v2.6.0/v1.10.0 - ~60% performance increase when using async mode
 - Switcher Client SDK for Python v1.1.0 - Improved APIs, in-memory snapshot support for silent_mode and more
 - Switcher Client SDK for Go - New SDK 🚀
