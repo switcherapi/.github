@@ -1,5 +1,19 @@
 Switcher API is a Feature Manager focused on helping teams effortlessly manage features at scale without compromising performance and code maintainability.
 
+* * *
+
+⚠️ Service Notice: Switcher API Cloud Availability
+
+The Switcher API Cloud environment is currently offline due to recent host infrastructure changes. Because this project is entirely community-driven and lacks financial backing, we cannot guarantee when or if the public cloud service will return. 
+
+> What you can do:
+
+Self-Host: The core Switcher API remains fully open-source. You can still install and run the service locally or on your own infrastructure using [**Switcher API Helm Charts**](https://github.com/switcherapi/helm-charts).
+
+Thank you for your understanding and support.
+
+* * *
+
 # Projects
 | Name  | Description   | Release   |
 | ----- | ------------- | --------- |
