@@ -31,7 +31,7 @@ Thank you for your understanding and support.
 # Client SDKs
 | Language/Runtime  | Description/Compatibility  | Release  |
 | ----------------- | ---------------------------| -------- |
-| [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.5.0 |
+| [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.6.0 |
 | [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (17+ uses built-in HttpClient) | 1.10.1 - 2.6.1 |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.5.0 |
 | [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.9+ | 1.2.1 |
@@ -47,7 +47,6 @@ Thank you for your understanding and support.
 
 # What's new
 - Switcher Resolver Node v1.1.0 - Performance optimizations
-- Switcher Client SDK for JS v4.6.0 - Cache and resource allocation improvements
 - Switcher MCP Server - Enable automated Agentic-development using this new feature 🚀
 
 # Third-Party Projects
