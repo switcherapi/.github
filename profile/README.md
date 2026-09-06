@@ -48,6 +48,7 @@ Thank you for your understanding and support.
 # What's new
 - Switcher Resolver Node v1.1.0 - Performance optimizations
 - Switcher Client SDK for JS v4.6.0 - Cache and resource allocation improvements
+- Switcher MCP Server - Enable automated Agentic-development using this new feature 🚀
 
 # Third-Party Projects
 Contribute with Switcher API - [Open PR](https://github.com/switcherapi/.github/issues) and share your contribution
