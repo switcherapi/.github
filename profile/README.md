@@ -35,7 +35,7 @@ Thank you for your understanding and support.
 | [**JS: switcher-client**](https://github.com/switcherapi/switcher-client-js) | Node.js 16+, Bun, Cloudflare Workers | 4.6.2 |
 | [**Java: switcher-client**](https://github.com/switcherapi/switcher-client-java) | Java - v1 (8+ uses Jersey) v2 (17+ uses built-in HttpClient) | 1.10.1 - 2.6.1 |
 | [**Deno: switcher-client-deno**](https://github.com/switcherapi/switcher-client-deno) | Deno - 1.46.x, v2.x | 2.5.0 |
-| [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.9+ | 1.2.1 |
+| [**Python: switcher-client**](https://github.com/switcherapi/switcher-client-py) | Python 3.10+ | 1.2.2 |
 | [**Go: switcher-client-go**](https://github.com/switcherapi/switcher-client-go) | Go 1.25+ | 1.0.1 |
 
 # Miscellaneous
